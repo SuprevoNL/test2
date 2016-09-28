@@ -1,0 +1,16 @@
+{
+  "name": "project-name",
+  "version": "0.0.1",
+  "description": "Just a test project",
+  "author": "Marco Brok",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "jshint": "^2.9.3"
+  }
+}

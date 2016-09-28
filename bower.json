@@ -1,0 +1,20 @@
+{
+  "name": "Test",
+  "description": "Just a test project",
+  "main": "",
+  "authors": [
+    "Marco Brok"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

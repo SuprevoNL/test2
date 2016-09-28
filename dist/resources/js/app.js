@@ -1,3 +1,1 @@
-console.log('test');
-//wrongVar;
-var goodVar = 'test';
+console.log("test");var goodVar="test123123";

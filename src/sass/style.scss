@@ -1,19 +1,10 @@
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
 @import 'modules/variables';
 
 body {
-    background: blue;
-    color: $white;
+    padding-top: 50px;
 }
-
-.content {
-    padding: 1em;
-    background: #ccc;
-}
-
-.content h1 {
-    font-size: 5em;
-}
-
-.header {
-    width: 100%;
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
 }
